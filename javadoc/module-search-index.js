@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.microchip.parallelsearch.inmemoryparallelsearch"}];updateSearchResults();

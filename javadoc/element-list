@@ -1,0 +1,6 @@
+module:com.microchip.parallelsearch.inmemoryparallelsearch
+com.microchip.parallelsearch
+com.microchip.parallelsearch.controller
+com.microchip.parallelsearch.exception
+com.microchip.parallelsearch.model
+com.microchip.parallelsearch.util
